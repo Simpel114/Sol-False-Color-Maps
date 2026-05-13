@@ -1,2 +1,14 @@
-# Sol---False-Color-Maps
-This is a big sol - add-ons that adds false color maps
+# Sol-False-Color-Maps
+This add-ons replace unnatural colors for the planets and moons
+ 
+ **This includes:**
+
+* **Mercury**
+* **Venus** 
+* **Mars System**
+* **Jupiter System**
+* **Saturn System**
+* **Ice Giants and their system**
+* **Pluto System** 
+
+## If you find any bugs either dms me on discord or ping me in Fox Tech Server. Have Fun! ^_^
