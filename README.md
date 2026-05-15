@@ -1,5 +1,5 @@
 # Sol-False-Color-Maps
-This add-ons replace unnatural colors for the planets and moons
+This add-ons replace false colors for the planets and moons
  
  **This includes:**
 
